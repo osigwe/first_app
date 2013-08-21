@@ -1,5 +1,5 @@
 == README
-
+This is my own addtion to the read me file. it is just for testing purpose. 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
